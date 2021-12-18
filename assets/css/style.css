@@ -1,24 +1,30 @@
 body {
-  background-color: darkgray;
+  background-color: rgb(0, 0, 0);
+  color: white;
+}
+
+.header {
+  text-align: center;
 }
 
 section {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
-  justify-content:space-around;
+  justify-content: space-around;
   row-gap: 10px;
   column-gap: 20px;
-  
 }
 
-.card {
-  background-color: darkorchid;
-  /* margin-top: 20px; */
+.card1 {
   flex-wrap: wrap;
-  width: 150px;
-  height: 100px;
+  /* width: 150px;
+  height: 100px; */
+}
 
+img {
+  width: auto;
+  height: 300px;
 }
 
 @media screen and (max-width: 992px) {
