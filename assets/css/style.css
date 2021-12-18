@@ -1,6 +1,5 @@
 body {
   background-color: rgb(0, 0, 0);
-  color: white;
 }
 
 .header {
@@ -33,9 +32,16 @@ img {
   height: 300px;
 }
 
-.card:hover {
-  box-shadow: inset 0px 0px 8px var(--heliotrope), 0 0 15px var(--heliotrope);
-  background-color: darkorchid;
+img:hover {
+  top: -100%;
+  left: 0px;
+  width: 100%;
+  position: absolute;
+  background: #ff7a59;
+  border-radius: 5px;
+  content: "Flipped";
+  transform-origin: left bottom;
+  transform: rotateX(90deg);
 }
 
 @media screen and (max-width: 992px) {
