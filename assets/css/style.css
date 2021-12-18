@@ -1,3 +1,31 @@
 body {
     background-color: darkgray;
 }
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    
+   
+}
+
+.card {
+    background-color: darkorchid;
+
+}
+
+
+@media screen and (max-width: 992px) {
+    .card {
+      width: 50%;
+    } 
+  }
+
+  @media screen and (max-width: 768px) {
+    .card {
+      width: 75%;
+    }
+  }
+  
