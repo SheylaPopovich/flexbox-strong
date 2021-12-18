@@ -4,6 +4,7 @@
 
 # **Table of Contents**
 [Description](#description) |
+[Application](#application) |
 [Demo](#demo) |
 [Contact](#contact) |
 [Technologies](#technologies) |
@@ -29,7 +30,7 @@ With todays forever evolving technology media queries allow for your application
 
 ## **Demo**
  Example of "flex row" at max width 992px screen size.
-![demo_pic](Images\demo-full-pg.jpg)
+![demo_pic](https://github.com/SheylaPopovich/flexbox-strong/blob/dd15614c0cc7eafd66591c7edb36a90fb84de800/Images/demo-full-pg.jpg)
 <br>
 
 <br>
@@ -40,6 +41,12 @@ Example of "flex row" at max width 768px screen size.
 
 <br>
 
+## **Application**
+
+<a href=" https://sheylapopovich.github.io/flexbox-strong/"><img src="https://img.shields.io/badge/-👉 See Live Site-success?style=for-the-badge"  alt="Live Site" /></a>
+
+ <br>
+ 
 ## **Contact**
 
 If you want to see more of our work please checkout my GitHub profile<br>
