@@ -36,7 +36,7 @@ With todays forever evolving technology media queries allow for your application
 <br>
 
 Example of "flex row" at max width 768px screen size.
-![demo_pic](Images\demo-half-pg.jpg)
+![demo_pic](https://github.com/SheylaPopovich/flexbox-strong/blob/dd15614c0cc7eafd66591c7edb36a90fb84de800/Images/demo-half-pg.jpg)
 [Walkthrough Video](https://drive.google.com/file/d/1XTwZkhV7pLR4Y3hKoevxNGclxcKsGjWJ/view?usp=sharing)
 
 <br>
