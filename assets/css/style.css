@@ -6,18 +6,24 @@ section {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content:space-around;
+  row-gap: 10px;
+  column-gap: 20px;
   
 }
 
 .card {
   background-color: darkorchid;
   /* margin-top: 20px; */
+  flex-wrap: wrap;
+  width: 150px;
+  height: 100px;
+
 }
 
 @media screen and (max-width: 992px) {
   .card {
-    width: 50%;
+    width: 45%;
   }
 }
 
