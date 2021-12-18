@@ -7,24 +7,35 @@ body {
   text-align: center;
 }
 
+h1 {
+  color: #00ff33;
+}
+
+p {
+  color: #e6fb04;
+}
+
 section {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: center;
   row-gap: 10px;
   column-gap: 20px;
 }
 
-.card1 {
+.card {
   flex-wrap: wrap;
-  /* width: 150px;
-  height: 100px; */
 }
 
 img {
   width: auto;
   height: 300px;
+}
+
+.card:hover {
+  box-shadow: inset 0px 0px 8px var(--heliotrope), 0 0 15px var(--heliotrope);
+  background-color: darkorchid;
 }
 
 @media screen and (max-width: 992px) {
